@@ -1,0 +1,6 @@
+com.atos.test
+com.atos.test.controllers
+com.atos.test.dao
+com.atos.test.entities
+com.atos.test.exceptions
+com.atos.test.services
